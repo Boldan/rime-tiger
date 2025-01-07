@@ -3,7 +3,7 @@
 # CC-BY-4.0
 
 ---
-name: tiger
+name: tiger_core  
 version: "2024.08.31"
 sort: by_weight
 use_preset_vocabulary: false
